@@ -1,3 +1,10 @@
-/node_modules
-bundle.js
-*.log
+# I hereby promise not to check-in auto generated stuff
+coverage
+build
+node_modules
+stats.json
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
